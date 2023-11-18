@@ -24,6 +24,7 @@ extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.linkcode',
     'sphinx.ext.intersphinx',
+    'sphinx_markdown_builder',
 ]
 
 templates_path = ['_templates']
